@@ -4,7 +4,7 @@ public class Course {
     int id;
     String image, title, level, date, color, text;
 
-    public Course(int id, String image, String title, String level, String date, String color, String text) {
+    public Course(int id, String image, String title, String date, String color, String level, String text) {
         this.id = id;
         this.image = image;
         this.title = title;
